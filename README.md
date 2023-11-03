@@ -1,5 +1,6 @@
 # rPi4
 ## 5.15.x
-hostname: xeno-pi4
-username: xeno
-password: xenomai
+
+- **hostname**: _xeno-pi4_
+- **username**: _xeno_
+- **password**: _xenomai_
