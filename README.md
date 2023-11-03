@@ -1,4 +1,4 @@
-# Prebuild Raspbian with Xenomai
+# Prebuilt Raspbian with Xenomai
 - based on [this documentation](https://george117.github.io/rPi_Xenomai/)
 - SD Card: at least 4GB
 - Extract the image from the release
