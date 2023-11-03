@@ -19,4 +19,4 @@
 - no CPU idling
 - CPU frequency fixed to 1.8Ghz -> ensure adequate cooling
 - **/boot/cmdline.txt**: _wc_otg.fiq_enable=0 dwc_otg.fiq_fsm_enable=0 dwc_otg.nak_holdoff=0 isolcpus=0,1 xenomai.supported_cpus=0x3_
-- **/boot/config.txt**: total_mem=3072, dtoverlay=pi3-disable-bt
+- **/boot/config.txt**: _total_mem=3072, dtoverlay=pi3-disable-bt_
