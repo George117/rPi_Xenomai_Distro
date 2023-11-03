@@ -1,2 +1,5 @@
-# rPi_Xenomai_Images
-rPi ready to use images
+# rPi4
+## 5.15.x
+hostname: xeno-pi4
+username: xeno
+password: xenomai
